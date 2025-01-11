@@ -1,0 +1,18 @@
+{
+  "name": "ai-powered-chatbot",
+  "version": "1.0.0",
+  "description": "AI-powered chatbot for customer service using OpenAI's GPT model.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "Ally Elvis Nzeyimana",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.4",
+    "express": "^4.18.2",
+    "openai": "^4.0.0"
+  }
+}
