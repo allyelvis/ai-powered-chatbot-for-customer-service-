@@ -1,10 +1,3 @@
-Below are the README.md and package.json files for your project:
-
-
----
-
-README.md
-
 # AI-Powered Chatbot for Customer Service
 
 This project is an AI-powered chatbot designed to assist with customer service tasks. It uses OpenAI's GPT model to provide natural and context-aware responses.
